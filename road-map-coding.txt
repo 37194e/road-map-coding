@@ -2,4 +2,5 @@ ROAD MAP CODING 2021 :
 - Konsisten setiap hari belajar coding untuk Full Stack Developer.
 - Membangun Website sederhana.
 - Mengikuti perkembangan, untuk bisa survive.
-- 
+- membangun start up.
+- membangun tim
