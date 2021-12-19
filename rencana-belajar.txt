@@ -3,6 +3,7 @@ RENCANA BELAJAR
 - FINISH JAVASCRIPT
  * FRONT-END
  * FRAMEWORK JAVASCRIPT
+  ^ React Native
   ^ Vue
   ^ Laravel
 - Memahami Algoritma
