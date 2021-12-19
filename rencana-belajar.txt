@@ -3,6 +3,9 @@ RENCANA BELAJAR
 - FINISH JAVASCRIPT
  * FRONT-END
  * FRAMEWORK JAVASCRIPT
+  ^ Vue
+  ^ Laravel
 - Memahami Algoritma
+- Python
 - FULL STACK DEVELOPER
 - START UP
